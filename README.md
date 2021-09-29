@@ -16,13 +16,13 @@
 
 ### * Track 1: Cloud Engineering Track
 
-- [ ] Getting Started: Create and Manage Cloud Resources
-    - [ ] A Tour of Qwiklabs and Google Cloud
-    - [ ] Creating a Virtual Machine
-    - [ ] Getting Started with Cloud Shell and gcloud
-    - [ ] Kubernetes Engine: Qwik Start
-    - [ ] Set Up Network and HTTP Load Balancers
-    - [ ] Create and Manage Cloud Resources: Challenge Lab
+- [x] Getting Started: Create and Manage Cloud Resources
+    - [x] A Tour of Qwiklabs and Google Cloud
+    - [x] Creating a Virtual Machine
+    - [x] Getting Started with Cloud Shell and gcloud
+    - [x] Kubernetes Engine: Qwik Start
+    - [x] Set Up Network and HTTP Load Balancers
+    - [x] Create and Manage Cloud Resources: Challenge Lab
 - [ ] Perform Foundational Infrastructure Tasks in Google Cloud
     - [ ] Cloud Storage Qwik Start - Cloud Console
     - [ ] Cloud IAM: Qwik Start
@@ -60,13 +60,13 @@
 
 ### * Track 2: Data Science and Machine Learning Track
 
-- [ ] Getting Started: Create and Manage Cloud Resources
-    - [ ] A Tour of Qwiklabs and Google Cloud
-    - [ ] Creating a Virtual Machine
-    - [ ] Getting Started with Cloud Shell and gcloud
-    - [ ] Kubernetes Engine: Qwik Start
-    - [ ] Set Up Network and HTTP Load Balancers
-    - [ ] Create and Manage Cloud Resources: Challenge Lab
+- [x] Getting Started: Create and Manage Cloud Resources
+    - [x] A Tour of Qwiklabs and Google Cloud
+    - [x] Creating a Virtual Machine
+    - [x] Getting Started with Cloud Shell and gcloud
+    - [x] Kubernetes Engine: Qwik Start
+    - [x] Set Up Network and HTTP Load Balancers
+    - [x] Create and Manage Cloud Resources: Challenge Lab
 - [ ] Perform Foundational Data, ML and AI Tasks in Google Cloud
     - [ ] AI Platform: Qwik Start
     - [ ] Dataprep: Qwik Start
